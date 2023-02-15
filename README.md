@@ -1,3 +1,4 @@
 # Python-portfolio
-This project focuses on using python in performing EDA (exploratory data analysis) and clustering for data charateriszation based on customers data. 
+This project focuses on using python in performing EDA (Exploratory data analysis) and clustering for data charateriszation based on customers data. 
 The data analysis was done using python's jupiter notebook
+I also used Kmeans clustering algorithm to create segementation on Univariate, Bivariate, Multivariate analysis. 
